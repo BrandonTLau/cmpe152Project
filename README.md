@@ -7,7 +7,7 @@ The compiler performs three main stages:
 2. **Parsing & AST Construction** – Builds a structured Abstract Syntax Tree
 3. **Interpretation** – Executes the program by evaluating the AST
 
-This implementation focuses on clarity, modularity, and correctness, making it easy for other team members to extend or adapt.
+
 
 ---
 
