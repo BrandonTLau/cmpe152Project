@@ -171,6 +171,6 @@ The goal of this project is to demonstrate the fundamentals of compiler design:
 * Constructing an AST
 * Executing the semantics of a simple language
 
-This project creates a working mini-compiler/interpreter pipeline that can serve as a learning tool or foundation for more advanced stages.
+
 
 
