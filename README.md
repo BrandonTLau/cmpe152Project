@@ -13,7 +13,7 @@ The compiler performs three main stages:
 
 # **Features**
 
-## ✔ **Lexical Analyzer**
+##  **Lexical Analyzer**
 
 The lexer recognizes:
 
@@ -31,7 +31,7 @@ The lexer also tracks **line and column numbers**, allowing meaningful error mes
 
 ---
 
-## ✔ **Parser (Recursive-Descent)**
+##  **Parser (Recursive-Descent)**
 
 The parser constructs an AST and supports:
 
@@ -71,7 +71,7 @@ Parser errors are reported with line/column numbers and allow limited synchroniz
 
 ---
 
-## ✔ **Interpreter**
+##  **Interpreter**
 
 The interpreter evaluates the AST and supports:
 
